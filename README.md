@@ -1,4 +1,4 @@
-# Bootstrap Portfolio
+# Responsive Portfolio
 Create my profolio with Media Query
 
 ## Motivation
